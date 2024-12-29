@@ -25,4 +25,4 @@ Future Roadmap
 Contribution
 NeuroQuantis is an open-source project under the MIT license. Contributions are welcome from developers, researchers, and industry experts.
 To get involved, please visit the shared folder for details and resources:
-Google Drive Link
+Google Drive Link：https://drive.google.com/drive/folders/18Ui_xAWhDi8qwQ1prE7Bfr6ZhrNLrFrA?usp=drive_link
