@@ -2,9 +2,9 @@ NeuroQuantis: A Revolutionary Open-Source Chip Architecture
 
 NeuroQuantis is a cutting-edge open-source chip architecture designed to advance the integration and evolution of computation, storage, and communication technologies. The project aims to provide an innovative platform for developers, researchers, and industries to explore the next generation of technology through open architecture design.
 
-“`markdown
-   ![alt text](https://i.postimg.cc/g0sxGB40/20250111200432.png))
-   “`
+
+<img src="https://github.com/raw025/NeuroQuantis/blob/main/img/0250111203050.png" width="600" height="600">
+
 
 Core Objectives
 
@@ -39,6 +39,9 @@ The multi-version NeuroQuantis architecture will find wide applications across:
 	•	Advanced AR/VR Equipment: Improves immersive experiences.
 
 Open-Source Licensing
+
+<img src="https://github.com/raw025/NeuroQuantis/blob/main/img/_20250111200432.png" width="600" height="600">
+
 
 NeuroQuantis is open-sourced under the MIT License, allowing individuals and organizations to freely use, modify, and distribute the architecture.
 We also encourage all participants to contribute to technological innovation and accelerate the implementation of future technologies.
