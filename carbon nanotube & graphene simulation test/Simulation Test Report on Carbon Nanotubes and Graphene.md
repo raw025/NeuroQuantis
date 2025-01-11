@@ -1,7 +1,3 @@
-以下是README的内容建议，可以清楚地说明项目的背景、测试目的和文件内容：
-
----
-
 # **Carbon Nanotube & Graphene Simulation Test**
 
 ## **Project Overview**
