@@ -2,6 +2,10 @@ NeuroQuantis: A Revolutionary Open-Source Chip Architecture
 
 NeuroQuantis is a cutting-edge open-source chip architecture designed to advance the integration and evolution of computation, storage, and communication technologies. The project aims to provide an innovative platform for developers, researchers, and industries to explore the next generation of technology through open architecture design.
 
+“`markdown
+   ![alt text](https://i.postimg.cc/g0sxGB40/20250111200432.png))
+   “`
+
 Core Objectives
 
 1. Version 1.0: Compute-Storage Integration
