@@ -42,7 +42,7 @@ How to Get Involved
 
 NeuroQuantis is an open platform that welcomes collaboration with chip designers, material scientists, AI experts, and futurists. Whether you are an academic researcher, an enterprise developer, or a visionary, NeuroQuantis provides a stage for your contributions.
 
-Contribution Guidelines
+<a href="https://github.com/raw025/NeuroQuantis/projects?query=is%3Aopen" >Contribution Guidelines</a>
 
 	•	Submit Code or Documentation: Refer to our contribution guidelines.
 	•	Propose New Ideas: Submit suggestions via issues or share your innovations in our discussion forums.
