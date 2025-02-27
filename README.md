@@ -49,8 +49,6 @@ NeuroQuantis is an open platform that welcomes collaboration with chip designers
 	•	Join Collaborative Projects: Contact us to learn how to join the research and development teams.
 
 
-<img src="https://github.com/raw025/NeuroQuantis/blob/main/img/_20250116182112.png" width="600" height="600">
-
 Infinite Possibilities for the Future
 
 NeuroQuantis is more than an open-source chip architecture project—it represents humanity’s quest to challenge and surpass technological boundaries. Each module and every iteration paves the way for a broader vision: from efficient computing to interstellar communication and entirely new socio-economic structures.
