@@ -35,8 +35,7 @@ Project Roadmap
 
 The core design of NeuroQuantis is not static; it evolves continuously with advancements in materials science and technology.
 	•	Short-Term Goals: Validate and optimize the performance of 1.0 and 2.0 architectures, exploring the practical application of graphene and carbon nanotubes in chip design.
-	•	Mid-Term Goals: Advance photonic network technology and gradually achieve hybrid photonic-quantum communication capabilities.
-	•	Long-Term Goals: Develop version 4.0 to achieve end-to-end photonic-quantum communication, supporting humanity’s interstellar exploration and creating a foundation for new economic models.
+	•	
 
 How to Get Involved
 
